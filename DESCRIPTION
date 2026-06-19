@@ -1,0 +1,17 @@
+Package: ZurichTransit
+Type: Package
+Title: Swiss Public Transport Accessibility Analysis
+Version: 0.1.0
+Authors@R: c(
+    person("Mahdi", "Hamrouni", email = "mahdi.hamrouni@student.supsi.ch", role = c("aut", "cre")),
+    person("Giorgio", "De Siena", email = "giorgio.desiena@student.supsi.ch", role = "aut"),
+    person("Anna", "Dell'acquila", email = "anna.dellaquila@student.supsi.ch", role = "aut"),
+    person("Aron", "Maggisano", email = "aron.maggisano@student.supsi.ch", role = "aut"),
+    person("Mattia", "Della Monica", email = "mattia.dellamonica@student.supsi.ch", role = "aut"),
+    person("Manuel", "Grosso", email = "manuel.grosso@student.supsi.ch", role = "aut"))
+Description: Downloads, analyzes, and visualizes public transport 
+    accessibility in Switzerland using the search.ch timetable API.
+    Focused on the Zurich / Eastern Switzerland region.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
