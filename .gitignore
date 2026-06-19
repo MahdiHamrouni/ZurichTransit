@@ -1,7 +1,23 @@
-.Rproj.user
+# RStudio / R session files
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+.Rapp.history
 .httr-oauth
+.quarto/
+
+# R package build artifacts
+*.tar.gz
+*.Rcheck/
+src/*.o
+src/*.so
+src/*.dll
+
+# macOS junk
 .DS_Store
-.quarto
+__MACOSX/
+._*
+
+# Windows junk
+Thumbs.db
