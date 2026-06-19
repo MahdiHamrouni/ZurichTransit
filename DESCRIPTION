@@ -14,7 +14,18 @@ Description: Downloads, analyzes, and visualizes public transport
     Focused on the Zurich / Eastern Switzerland region.
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
 URL: https://github.com/MahdiHamrouni/ZurichTransit
 BugReports: https://github.com/MahdiHamrouni/ZurichTransit/issues
 Config/roxygen2/version: 8.0.0
+Imports: dplyr, ggplot2, httr, jsonlite, purrr, readr, rlang, sf,
+        stringr, tibble, scales
+NeedsCompilation: no
+Packaged: 2026-06-19 15:16:45 UTC; mahdihamrouni
+Author: Mahdi Hamrouni [aut, cre],
+  Giorgio De Siena [aut],
+  Anna Dell'acquila [aut],
+  Aron Maggisano [aut],
+  Mattia Della Monica [aut],
+  Manuel Grosso [aut]
+Maintainer: Mahdi Hamrouni <mahdi.hamrouni@student.supsi.ch>
+Depends: R (>= 4.1.0)

@@ -1,0 +1,37 @@
+---
+title: "Contributors"
+output: pdf_document
+date: "2026-06-19"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Mattia Dellamonica:
+  
+  Extracting data and query table
+  
+  
+Manuel Grosso, Anna Dell'Aquila:
+
+  Calling Api and waiting time
+
+
+Aron Maggisano, Giorgio De Siena:
+
+  Plotting map
+  
+Mahdi Hamrouni:
+
+  Creating packaging, adjusting file DESCRIPTION, merging all the work, testing
+  
+
+Overall:
+
+  Everybody helps the other members in case of aid. 
+  
+
+
