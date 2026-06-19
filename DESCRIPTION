@@ -15,3 +15,5 @@ Description: Downloads, analyzes, and visualizes public transport
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/MahdiHamrouni/ZurichTransit
+BugReports: https://github.com/MahdiHamrouni/ZurichTransit/issues
