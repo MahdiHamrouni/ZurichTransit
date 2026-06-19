@@ -21,3 +21,6 @@ __MACOSX/
 
 # Windows junk
 Thumbs.db
+
+# R script plotting artifact
+Rplots.pdf
